@@ -15,7 +15,7 @@ export function Navbar() {
                     <Nav.Link to="/about" as={NavLink} className="text-light">About</Nav.Link>
                     <Nav.Link to="/store" as={NavLink} className="text-light">Store</Nav.Link>
                 </Nav>
-                {cartQuantity > 0 && (
+                {
                     <button
                         onClick={openCart}
                         style={{ width: "3rem", height: "3rem", position: "relative" }} className="btn btn-primary rounded-circle">
@@ -26,7 +26,7 @@ export function Navbar() {
                             {cartQuantity}
                         </div>
                     </button>
-                )}
+                }
 
             </Container>
         </NavbarBs>
