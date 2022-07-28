@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "name": "Iphone 11",
+      "price": 800,
+      "imgUrl": "https://appleinsider.ru/wp-content/uploads/2022/05/iphone11_for_grandma-740x492.jpg"
+    },
+    {
+      "id": 2,
+      "name":"Iphone 12 pro",
+      "price": 900,
+      "imgUrl": "https://mobile-review.com/articles/2020/image/iphone-11-pro-vs-12-pro/pic/pic03.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Iphone 12",
+      "price": 700,
+      "imgUrl": "https://cdn.pocket-lint.com/r/s/1201x/assets/images/154302-phones-review-iphone-12-pro-review-product-shots-image3-wd487ybwpf.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Iphone 11 pro",
+      "price": 650,
+      "imgUrl": "https://www.ixbt.com/img/n1/news/2021/7/5/akrales_190913_3666_0391.21_large.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Iphone 13",
+        "price": 920,
+        "imgUrl": "https://www.looper.com/img/gallery/apple-iphone-12-pro-max-review-camera-battery-5g-value/iphone-12-family-2020-3-1280x800.jpg"
+      },
+      {
+        "id": 6,
+        "name": "IPhone 12",
+        "price": 730,
+        "imgUrl": "https://www.looper.com/img/gallery/apple-iphone-12-pro-max-review-camera-battery-5g-value/iphone-12-family-2020-3-1280x800.jpg"
+      },
+      {
+        "id": 7,
+        "name": "IPhone 11 pro",
+        "price": 600,
+        "imgUrl": "https://avatars.mds.yandex.net/get-marketcms/1668019/img-ee62a8e1-2515-4252-8535-1e7741f91a52.jpeg/optimize"
+      },
+      {
+        "id": 8,
+        "name": "IPhone 12",
+        "price": 700,
+        "imgUrl": "https://content.onliner.by/news/1100x5616/fbdada04a74becf53b1deaf0aa39a8f6.jpeg"
+      },
+      {
+        "id": 9,
+        "name": "IPhone 12 pro",
+        "price": 780,
+        "imgUrl": "https://imageio.forbes.com/specials-images/imageserve/614ca81e731f04f85b7a70e1/DSC08013/960x0.jpg?format=jpg&width=960"
+      },
+      {
+        "id": 10,
+        "name": "IPhone 11 pro",
+        "price": 750,
+        "imgUrl": "https://deep-review.com/wp-content/uploads/2019/12/iphone-11-pro-box-1024x683.jpg"
+      },
+      {
+        "id": 11,
+        "name": "IPhone 13",
+        "price": 900,
+        "imgUrl":"https://www.iphones.ru/wp-content/uploads/2021/12/A157665E-DC08-4962-AA22-2F4E75AC076B.jpeg"
+      },
+      {
+        "id": 12,
+        "name": "IPhone 12",
+        "price": 625,
+        "imgUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/iPhone-13-Pro-Max-back.jpeg"
+      },
+      {
+        "id": 13,
+        "name": "IPhone 11",
+        "price": 675,
+        "imgUrl":"https://www.apple-iphone.ru/wp-content/uploads/2021/04/obzor_iphone_11_pro_max00010-scaled.jpeg"
+      }
+  ]
